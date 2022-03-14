@@ -35,8 +35,14 @@ list-style-type: none;
     
 }
 .nav-bar{
+    
     width: 1300px;
-    margin: auto;
+    margin:10px auto;
     background-color: antiquewhite;
     height: 50px;
+}
+video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
 }
