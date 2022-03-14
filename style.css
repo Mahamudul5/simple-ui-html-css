@@ -58,3 +58,35 @@ img{
     width: 56px;
     height: 50px;
 }
+.all-products{
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+    margin: auto;
+}
+.product{width: 20%;
+    border: 1px solid whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.btn{
+    padding: 6px 15px 6px 15px;
+    margin-left: 90px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: lightcoral;
+    color: antiquewhite;
+    
+}
+.product img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.product h3,h4,p{
+    text-align: center;
+}
+
